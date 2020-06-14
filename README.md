@@ -1,5 +1,7 @@
 # toyota_regression_analysis
-Regression analysis for Toyota car price
+* Regression analysis for Toyota car price.
+* It also includes the different types of heamaps and it's variations.
+
 
 Columns:
 
